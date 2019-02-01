@@ -1,0 +1,23 @@
+{
+  "name": "gdax-sim-test-data",
+  "version": "1.0.0",
+  "description": "Test data to be used for unit testing the gdax-sim and other such software.",
+  "main": "TestData,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaaelite21/gdax-sim-test-data.git"
+  },
+  "keywords": [
+    "gdax",
+    "gdax-sim"
+  ],
+  "author": "aaaelite21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaaelite21/gdax-sim-test-data/issues"
+  },
+  "homepage": "https://github.com/aaaelite21/gdax-sim-test-data#readme"
+}
