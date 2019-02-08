@@ -5,6 +5,7 @@ module.exports = {
         threeDaysContinuous: require('./Candles/ThreeDaysContinuous')
     },
     gdaxOutput: {
-        twoHistoricRates: require('./GdaxOutput/TwoHistoricRates')
+        twoHistoricRates: require('./GdaxOutput/TwoHistoricRates'),
+        fifteenOneMinutes: require('./GdaxOutput/FifteenOneMinutes')
     }
 }
